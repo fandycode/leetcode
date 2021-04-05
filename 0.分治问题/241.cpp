@@ -34,7 +34,7 @@ class Solution {
 			}
 			return res;
 		}
-};
+	};
 
 int main(){
 
